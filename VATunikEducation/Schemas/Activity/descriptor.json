@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "bda5482b-4706-4f26-bd78-34e962271db8",
+    "Name": "Activity",
+    "ModifiedOnUtc": "\/Date(1714823667000)\/",
+    "Parent": {
+      "UId": "c449d832-a4cc-4b01-b9d5-8a12c42a9f89",
+      "Name": "Activity"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Активность",
+    "DependsOn": []
+  }
+}

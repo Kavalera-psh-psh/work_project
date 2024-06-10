@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Каталог услуг" />
+			<Item Name="Columns.TnkDescription.Caption" Value="Описание" />
+			<Item Name="Columns.TnkInitiator.Caption" Value="Инициатор" />
+			<Item Name="Columns.TnkName.Caption" Value="Название" />
+			<Item Name="Columns.TnkNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.TnkOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.TnkStatus.Caption" Value="Состояние" />
+			<Item Name="Columns.TnkTimeunit.Caption" Value="Время разрешения" />
+			<Item Name="Columns.TnkTimeunitResolution.Caption" Value="Единица времени разрешения" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

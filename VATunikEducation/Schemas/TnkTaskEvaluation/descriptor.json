@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4b39ea54-cfa4-4d14-a47a-be9bdf9f1e26",
+    "Name": "TnkTaskEvaluation",
+    "ModifiedOnUtc": "\/Date(1716546628000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Получение оценки задачи",
+    "DependsOn": []
+  }
+}

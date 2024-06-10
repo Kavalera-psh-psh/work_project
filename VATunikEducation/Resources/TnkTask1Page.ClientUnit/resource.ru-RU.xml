@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Задачи&quot;" />
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="LocalizableStrings.Taba1c9ce7bTabLabelGroup98d80c30GroupCaption.Value" Value="Данные" />
+			<Item Name="LocalizableStrings.Taba1c9ce7bTabLabelTabCaption.Value" Value="Основная информация" />
+			<Item Name="LocalizableStrings.Tabc46afbadTabLabelTabCaption.Value" Value="Взаимосвязи" />
+			<Item Name="LocalizableStrings.TnkApprovedEventButton.Value" Value="В согласовано" />
+			<Item Name="LocalizableStrings.TnkApprovingEventButton.Value" Value="В согласование" />
+			<Item Name="LocalizableStrings.TnkCancelEventButton.Value" Value="Отменить задачу" />
+			<Item Name="LocalizableStrings.TnkCheckDueDateMessage.Value" Value="Плановая дата завершения не может быть меньше текущей даты." />
+			<Item Name="LocalizableStrings.TnkCheckStartDateMessage.Value" Value="Плановая дата начала не может быть меньше текущей даты." />
+			<Item Name="LocalizableStrings.TnkCostValueError.Value" Value="Стоимость не может быть ниже нуля." />
+			<Item Name="LocalizableStrings.TnkEndEventButton.Value" Value="Завершить задачу" />
+			<Item Name="LocalizableStrings.TnkInProgressEventButton.Value" Value="В работу" />
+			<Item Name="LocalizableStrings.TnkInvalidDueDateMessage.Value" Value="Значение поля «Плановая дата завершения» не может быть меньше значения поля «Плановая дата начала» проекта" />
+			<Item Name="LocalizableStrings.TnkPriority8436a9faa5204e709cd366391f5cb83bTip.Value" Value="Простановка приоритета у задачи зависит от её стоимости: до 100 000 — низкий, более 100 000 — средний, более 500 000 — высокий." />
+			<Item Name="LocalizableStrings.TnkSchemabac6ce84Detail270cdf68DetailCaptionOnPage.Value" Value="Активность" />
+			<Item Name="LocalizableStrings.TnkSchemabac6ce84Detailb15abef7DetailCaptionOnPage.Value" Value="Активность" />
+			<Item Name="LocalizableStrings.TnkSchemae024e4ffDetail013b6badDetailCaptionOnPage.Value" Value="Подзадачи" />
+			<Item Name="LocalizableStrings.TnkSchemae024e4ffDetail9c24b80cDetailCaptionOnPage.Value" Value="Подзадачи" />
+		</Items>
+	</Group>
+</Resources>

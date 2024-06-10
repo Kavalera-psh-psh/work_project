@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "87167b3c-c896-4cb2-bfe8-fa10e328afab",
+    "Name": "TnkProject1Page",
+    "ModifiedOnUtc": "\/Date(1718000051000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Проекты\""
+  }
+}

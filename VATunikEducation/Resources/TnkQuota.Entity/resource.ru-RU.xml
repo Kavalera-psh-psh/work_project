@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Квоты" />
+			<Item Name="Columns.TnkApproved.Caption" Value="Утверждена" />
+			<Item Name="Columns.TnkDescription.Caption" Value="Описание" />
+			<Item Name="Columns.TnkDueDate.Caption" Value="Дата завершения" />
+			<Item Name="Columns.TnkName.Caption" Value="Название" />
+			<Item Name="Columns.TnkProject.Caption" Value="Проект" />
+			<Item Name="Columns.TnkSpecialist.Caption" Value="Специалист" />
+			<Item Name="Columns.TnkStartDate.Caption" Value="Дата начала" />
+			<Item Name="Columns.TnkValue.Caption" Value="Квота" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

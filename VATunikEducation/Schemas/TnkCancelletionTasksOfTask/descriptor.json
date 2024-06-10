@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "078c1724-ea9f-47b6-b879-805c15e2d020",
+    "Name": "TnkCancelletionTasksOfTask",
+    "ModifiedOnUtc": "\/Date(1715856423000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отмена подзадач отменённой задачи",
+    "DependsOn": []
+  }
+}

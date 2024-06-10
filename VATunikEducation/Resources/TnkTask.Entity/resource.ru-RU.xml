@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Задачи" />
+			<Item Name="Columns.TnkAccount.Caption" Value="Контрагент" />
+			<Item Name="Columns.TnkApproved.Caption" Value="Утверждена" />
+			<Item Name="Columns.TnkAuthor.Caption" Value="Автор" />
+			<Item Name="Columns.TnkCost.Caption" Value="Стоимость" />
+			<Item Name="Columns.TnkDecision.Caption" Value="Решение" />
+			<Item Name="Columns.TnkDescription.Caption" Value="Описание" />
+			<Item Name="Columns.TnkFactDueDate.Caption" Value="Фактическая дата завершения" />
+			<Item Name="Columns.TnkFactStartDate.Caption" Value="Фактическая дата начала" />
+			<Item Name="Columns.TnkNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.TnkNumber.Caption" Value="Номер" />
+			<Item Name="Columns.TnkParentTask.Caption" Value="Родительская задача" />
+			<Item Name="Columns.TnkPlannedDueDate.Caption" Value="Плановая дата завершения" />
+			<Item Name="Columns.TnkPlannedStartDate.Caption" Value="Плановая дата начала" />
+			<Item Name="Columns.TnkPriority.Caption" Value="Приоритет" />
+			<Item Name="Columns.TnkProject.Caption" Value="Проект" />
+			<Item Name="Columns.TnkRating.Caption" Value="Оценка" />
+			<Item Name="Columns.TnkService.Caption" Value="Услуга" />
+			<Item Name="Columns.TnkSpecialist.Caption" Value="Специалист" />
+			<Item Name="Columns.TnkStatus.Caption" Value="Состояние" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

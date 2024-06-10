@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b8a6a09-ccc1-4b87-bb27-b85eb77b7156",
+    "Name": "Tnkc3806fe3Page",
+    "ModifiedOnUtc": "\/Date(1716545514000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Quota\"",
+    "DependsOn": []
+  }
+}

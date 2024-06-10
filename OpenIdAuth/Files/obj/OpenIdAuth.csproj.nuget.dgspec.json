@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\inetpub\\wwwroot\\Конструктор Framework+MSSQL 1.4.0.3084\\BPMSoft.WebApp\\BPMSoft.Configuration\\Pkg\\OpenIdAuth\\Files\\OpenIdAuth.csproj": {}
+  },
+  "projects": {
+    "C:\\inetpub\\wwwroot\\Конструктор Framework+MSSQL 1.4.0.3084\\BPMSoft.WebApp\\BPMSoft.Configuration\\Pkg\\OpenIdAuth\\Files\\OpenIdAuth.csproj": {
+      "version": "1.4.0.3084",
+      "restore": {
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\Конструктор Framework+MSSQL 1.4.0.3084\\BPMSoft.WebApp\\BPMSoft.Configuration\\Pkg\\OpenIdAuth\\Files\\OpenIdAuth.csproj",
+        "projectName": "OpenIdAuth",
+        "projectPath": "C:\\inetpub\\wwwroot\\Конструктор Framework+MSSQL 1.4.0.3084\\BPMSoft.WebApp\\BPMSoft.Configuration\\Pkg\\OpenIdAuth\\Files\\OpenIdAuth.csproj",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\2\\LAN_Tunik\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\Конструктор Framework+MSSQL 1.4.0.3084\\BPMSoft.WebApp\\BPMSoft.Configuration\\Pkg\\OpenIdAuth\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\WINDOWS\\TEMP\\2\\LAN_Tunik\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

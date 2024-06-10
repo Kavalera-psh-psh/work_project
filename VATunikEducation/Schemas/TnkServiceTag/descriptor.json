@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "59a62890-d9e0-46b4-ab55-35bd2464e751",
+    "Name": "TnkServiceTag",
+    "ModifiedOnUtc": "\/Date(1714234558000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Каталог услуг",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "80a9c2c6-afe6-4e0d-8d56-af56f45827d0",
+    "Name": "TnkProjectStatus",
+    "ModifiedOnUtc": "\/Date(1714250704000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Cостояние проекта",
+    "DependsOn": []
+  }
+}

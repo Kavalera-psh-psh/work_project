@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3cb559c0-3065-4352-ac34-261efab0b96a",
+    "Name": "TnkProjectFinish",
+    "ModifiedOnUtc": "\/Date(1716547376000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Оповещение при завершённом проекте",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cbb39849-8a08-4d65-a5da-5b92b4facf16",
+    "Name": "TnkCostOfTasks",
+    "ModifiedOnUtc": "\/Date(1715856534000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Сумма задач проекта",
+    "DependsOn": []
+  }
+}

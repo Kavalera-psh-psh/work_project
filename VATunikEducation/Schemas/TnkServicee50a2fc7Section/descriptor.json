@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2025f63-0d86-4936-8bcd-1771148b7f5d",
+    "Name": "TnkServicee50a2fc7Section",
+    "ModifiedOnUtc": "\/Date(1714234512000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Каталог услуг\"",
+    "DependsOn": []
+  }
+}

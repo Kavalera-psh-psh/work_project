@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1d482190-f1d6-4c87-9cce-6214b7347a76",
+    "Name": "TnkProirityTask",
+    "ModifiedOnUtc": "\/Date(1715856552000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Определение приоритета задачи",
+    "DependsOn": []
+  }
+}

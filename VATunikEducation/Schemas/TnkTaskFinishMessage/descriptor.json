@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1de22864-22b7-47aa-899a-d932f6d9538a",
+    "Name": "TnkTaskFinishMessage",
+    "ModifiedOnUtc": "\/Date(1716545791000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Уведомление при завершении задачи",
+    "DependsOn": []
+  }
+}

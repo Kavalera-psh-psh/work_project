@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "36ac3740-22d7-4000-a299-8c061a8097fc",
+    "Name": "TnkServiceFile",
+    "ModifiedOnUtc": "\/Date(1714234536000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Каталог услуг",
+    "DependsOn": []
+  }
+}

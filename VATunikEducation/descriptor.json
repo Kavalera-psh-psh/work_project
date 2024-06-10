@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "73f0c563-7dbc-97db-c1df-6d3434893fb5",
+    "Name": "VATunikEducation",
+    "BPMSoftVersion": "1.4.0",
+    "ModifiedOnUtc": "\/Date(1714231003000)\/",
+    "Maintainer": "Tnk",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "1.0.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

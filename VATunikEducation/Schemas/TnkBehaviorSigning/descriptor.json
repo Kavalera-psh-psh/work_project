@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "f41e34ee-9fd6-4467-876a-054f86743802",
+    "Name": "TnkBehaviorSigning",
+    "ModifiedOnUtc": "\/Date(1717097518000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Реакция на визирование проекта"
+  }
+}

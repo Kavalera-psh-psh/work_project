@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dce92ce4-70ae-43fc-86b2-94423ab91af7",
+    "Name": "TnkUsersOfTheServiceTag",
+    "ModifiedOnUtc": "\/Date(1716213861000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Пользователи услуги",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Пользователи услуги" />
+			<Item Name="Columns.TnkContact.Caption" Value="Контакт" />
+			<Item Name="Columns.TnkName.Caption" Value="Название" />
+			<Item Name="Columns.TnkNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.TnkService.Caption" Value="Услуга" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

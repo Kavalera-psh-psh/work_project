@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Проекты" />
+			<Item Name="Columns.TnkAccount.Caption" Value="Контрагент" />
+			<Item Name="Columns.TnkCost.Caption" Value="Предполагаемая стоимость" />
+			<Item Name="Columns.TnkDescription.Caption" Value="Описание" />
+			<Item Name="Columns.TnkDueDate.Caption" Value="Плановая дата завершения" />
+			<Item Name="Columns.TnkFactCost.Caption" Value="Фактическая стоимость" />
+			<Item Name="Columns.TnkFactDueDate.Caption" Value="Фактическая дата завершения" />
+			<Item Name="Columns.TnkFactStartDate.Caption" Value="Фактическая дата начала" />
+			<Item Name="Columns.TnkLaborcost.Caption" Value="Трудоемкость(часов)" />
+			<Item Name="Columns.TnkManager.Caption" Value="Представитель заказчика" />
+			<Item Name="Columns.TnkName.Caption" Value="Название" />
+			<Item Name="Columns.TnkNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.TnkNumber.Caption" Value="Номер" />
+			<Item Name="Columns.TnkOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.TnkService.Caption" Value="Услуга" />
+			<Item Name="Columns.TnkStartDate.Caption" Value="Плановая дата начала" />
+			<Item Name="Columns.TnkStatus.Caption" Value="Состояние" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

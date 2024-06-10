@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "89de0eb6-4e31-4ce3-9a96-737135ee6a8f",
+    "Name": "TnkTask",
+    "ModifiedOnUtc": "\/Date(1718002037000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Задачи"
+  }
+}

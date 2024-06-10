@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "de449bdb-59b7-480f-8dc1-e19bd22a8135",
+    "Name": "TnkCancellationTasks",
+    "ModifiedOnUtc": "\/Date(1716550579000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Отмена задач отменённого проекта",
+    "DependsOn": []
+  }
+}

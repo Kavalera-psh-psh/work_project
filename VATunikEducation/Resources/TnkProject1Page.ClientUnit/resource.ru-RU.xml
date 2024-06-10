@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Проекты&quot;" />
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="LocalizableStrings.Tab4f470e7cTabLabelTabCaption.Value" Value="Выполнение" />
+			<Item Name="LocalizableStrings.Tabfd910f2cTabLabelTabCaption.Value" Value="Трудозатраты" />
+			<Item Name="LocalizableStrings.TnkApprovingEventButton.Value" Value="В согласование" />
+			<Item Name="LocalizableStrings.TnkCancelEventButton.Value" Value="Отменить проект" />
+			<Item Name="LocalizableStrings.TnkCheckDueDateMessage.Value" Value="Дата завершения не может быть меньше текущей даты." />
+			<Item Name="LocalizableStrings.TnkCheckStartDateMessage.Value" Value="Дата начала не может быть меньше текущей даты." />
+			<Item Name="LocalizableStrings.TnkCostcb085987f1a949e5a55f18531095e311Tip.Value" Value="Стоимость проекта складывается из стоимости его утверждённых неотменённых задач." />
+			<Item Name="LocalizableStrings.TnkCostValueError.Value" Value="Стоимость проекта не может быть меньше нуля." />
+			<Item Name="LocalizableStrings.TnkEndEventButton.Value" Value="Завершить проект" />
+			<Item Name="LocalizableStrings.TnkFactCost110a2a8dc9974ddfbfc6761b21b6105dTip.Value" Value="Стоимость проекта складывается из стоимости его утверждённых неотменённых задач." />
+			<Item Name="LocalizableStrings.TnkInvalidDueDateMessage.Value" Value="Значение поля «Дата завершения» не может быть меньше значения поля «Дата начала» проекта" />
+			<Item Name="LocalizableStrings.TnkLaborcostValueError.Value" Value="Трудоёмкость не может быть меньше нуля." />
+			<Item Name="LocalizableStrings.TnkQuestionApproveProject.Value" Value="Отправить проект на согласование?" />
+			<Item Name="LocalizableStrings.TnkQuestionCancelTask.Value" Value="Вы уверены, что хотите отменить проект?" />
+			<Item Name="LocalizableStrings.TnkQuestionEndProject.Value" Value="Завершить проект?" />
+			<Item Name="LocalizableStrings.TnkSchema7fa36b60Detail233134afDetailCaptionOnPage.Value" Value="Задачи" />
+			<Item Name="LocalizableStrings.TnkSchema8201073cDetailc91a6178DetailCaptionOnPage.Value" Value="Квоты" />
+			<Item Name="LocalizableStrings.TnkSchemabac6ce84Detail06e66190DetailCaptionOnPage.Value" Value="Активность" />
+		</Items>
+	</Group>
+</Resources>

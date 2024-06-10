@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f67cae73-c0fd-45c6-9d41-474588e47392",
+    "Name": "TnkTaskFile",
+    "ModifiedOnUtc": "\/Date(1714645758000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Задачи",
+    "DependsOn": []
+  }
+}

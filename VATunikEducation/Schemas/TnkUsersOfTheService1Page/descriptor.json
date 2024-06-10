@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "37dc1042-034a-4016-936b-64c3725502dc",
+    "Name": "TnkUsersOfTheService1Page",
+    "ModifiedOnUtc": "\/Date(1717427775000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Пользователи услуги\""
+  }
+}

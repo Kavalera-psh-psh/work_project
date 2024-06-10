@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "837b5f0e-d5e6-45d1-9158-e99dedc03b28",
+    "Name": "TnkUsersOfTheServiceInFolder",
+    "ModifiedOnUtc": "\/Date(1716213858000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Пользователи услуги в группе",
+    "DependsOn": []
+  }
+}

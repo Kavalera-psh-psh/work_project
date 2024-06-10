@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "10559926-6056-48af-a631-2cd4af8fdd59",
+    "Name": "TnkProjectInFolder",
+    "ModifiedOnUtc": "\/Date(1714233918000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Project в группе",
+    "DependsOn": []
+  }
+}

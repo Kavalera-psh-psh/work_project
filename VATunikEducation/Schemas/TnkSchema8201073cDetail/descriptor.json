@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "880bf380-a9ba-4b6f-b577-e879a02a845a",
+    "Name": "TnkSchema8201073cDetail",
+    "ModifiedOnUtc": "\/Date(1714597075000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Квоты\"",
+    "DependsOn": []
+  }
+}

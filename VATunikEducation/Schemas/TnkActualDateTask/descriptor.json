@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "190909cb-35c4-4492-b6b3-76488af5a8d9",
+    "Name": "TnkActualDateTask",
+    "ModifiedOnUtc": "\/Date(1715855946000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Назначение фактических дат задачи",
+    "DependsOn": []
+  }
+}

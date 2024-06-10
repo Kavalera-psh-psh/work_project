@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8acdc3e9-1a62-4276-8f8d-bbc2c5ddbaf5",
+    "Name": "TnkProjectTag",
+    "ModifiedOnUtc": "\/Date(1714233925000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Project",
+    "DependsOn": []
+  }
+}

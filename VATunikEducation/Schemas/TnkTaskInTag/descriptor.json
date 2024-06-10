@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "243086bb-622a-4aff-97cd-dee5a7377916",
+    "Name": "TnkTaskInTag",
+    "ModifiedOnUtc": "\/Date(1714645783000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Задачи",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "74e3f186-ceef-49f3-909a-beeff9779ead",
+    "Name": "TnkTaskRating",
+    "ModifiedOnUtc": "\/Date(1714630036000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Рейтинг задачи",
+    "DependsOn": []
+  }
+}

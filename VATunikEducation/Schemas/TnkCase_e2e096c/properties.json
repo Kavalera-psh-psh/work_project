@@ -1,0 +1,11 @@
+﻿{
+  "Properties": {
+    "CreatedInVersion": "1.4.0.3084",
+    "Enabled": "True",
+    "EntitySchemaUId": "7eb2f5aa-3b48-4293-aee0-141dbf9b9a46",
+    "IsActiveVersion": "True",
+    "IsTracing": "False",
+    "StageColumnUId": "0c71e550-b40e-62f2-e471-66c799172e9f",
+    "Version": "0"
+  }
+}

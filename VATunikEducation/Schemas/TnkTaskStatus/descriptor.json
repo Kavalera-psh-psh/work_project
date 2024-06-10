@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fb1b1f8f-d567-49a1-abc6-46d53dab8932",
+    "Name": "TnkTaskStatus",
+    "ModifiedOnUtc": "\/Date(1714628469000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние задачи",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c3bf1af5-6ebb-49be-a251-85663c24088a",
+    "Name": "TnkProjectFile",
+    "ModifiedOnUtc": "\/Date(1714233903000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Project",
+    "DependsOn": []
+  }
+}

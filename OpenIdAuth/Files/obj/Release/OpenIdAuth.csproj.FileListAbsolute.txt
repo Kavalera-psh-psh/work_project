@@ -1,0 +1,8 @@
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.dll
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\Bin\OpenIdAuth.pdb
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.AssemblyInfo.cs
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.dll
+C:\inetpub\wwwroot\Конструктор Framework+MSSQL 1.4.0.3084\BPMSoft.WebApp\BPMSoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.pdb

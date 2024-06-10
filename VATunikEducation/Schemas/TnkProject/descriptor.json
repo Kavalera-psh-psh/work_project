@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7eb2f5aa-3b48-4293-aee0-141dbf9b9a46",
+    "Name": "TnkProject",
+    "ModifiedOnUtc": "\/Date(1717756730000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Проекты"
+  }
+}

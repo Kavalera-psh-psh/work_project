@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f8fc957a-4fff-4af5-a533-ad8de814992d",
+    "Name": "TnkUsersOfTheServiceFile",
+    "ModifiedOnUtc": "\/Date(1716213854000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Пользователи услуги",
+    "DependsOn": []
+  }
+}

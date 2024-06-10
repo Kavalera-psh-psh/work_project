@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "500a6b2c-9d12-4dbf-ad25-1f0cd91026fd",
+    "Name": "TnkFillDateProject",
+    "ModifiedOnUtc": "\/Date(1715856461000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнение фактических дат проекта",
+    "DependsOn": []
+  }
+}

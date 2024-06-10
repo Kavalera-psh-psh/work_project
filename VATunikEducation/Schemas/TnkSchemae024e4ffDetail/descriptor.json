@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ea5ac81e-e1f8-4302-adc9-1864fd373774",
+    "Name": "TnkSchemae024e4ffDetail",
+    "ModifiedOnUtc": "\/Date(1714655775000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Подзадачи\"",
+    "DependsOn": []
+  }
+}

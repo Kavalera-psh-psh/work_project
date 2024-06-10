@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "15e45e0b-76e9-4df3-a1f5-84139479c35a",
+    "Name": "TnkApprovedTask",
+    "ModifiedOnUtc": "\/Date(1715851899000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Утверждение задачи",
+    "DependsOn": []
+  }
+}

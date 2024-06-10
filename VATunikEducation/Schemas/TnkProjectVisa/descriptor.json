@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffc85e07-d81c-4790-b083-662c9a61d31b",
+    "Name": "TnkProjectVisa",
+    "ModifiedOnUtc": "\/Date(1715671097000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Визы в разделе Проекты",
+    "DependsOn": []
+  }
+}

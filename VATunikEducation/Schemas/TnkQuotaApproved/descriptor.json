@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1a704a73-26a4-4af9-a66d-93cab035f41f",
+    "Name": "TnkQuotaApproved",
+    "ModifiedOnUtc": "\/Date(1715856492000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Утверждение квоты",
+    "DependsOn": []
+  }
+}

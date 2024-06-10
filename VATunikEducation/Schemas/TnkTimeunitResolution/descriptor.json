@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffb7c2b8-d2ae-4fb8-b295-3bef53125a57",
+    "Name": "TnkTimeunitResolution",
+    "ModifiedOnUtc": "\/Date(1714641602000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Единица времени разрешения",
+    "DependsOn": []
+  }
+}

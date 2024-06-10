@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2c742ed0-5253-4aff-a21f-1fe45bc1093b",
+    "Name": "TnkProject139dc37bSection",
+    "ModifiedOnUtc": "\/Date(1716990477000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Проекты\"",
+    "DependsOn": []
+  }
+}

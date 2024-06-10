@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e4c00415-db72-49ee-ad2b-ef9101ae3352",
+    "Name": "TnkServiceInFolder",
+    "ModifiedOnUtc": "\/Date(1714234551000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Каталог услуг в группе",
+    "DependsOn": []
+  }
+}

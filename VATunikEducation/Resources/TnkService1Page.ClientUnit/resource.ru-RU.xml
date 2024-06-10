@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Каталог услуг&quot;" />
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="LocalizableStrings.TnkSchema0b8a311bDetaileb5a0fb5DetailCaptionOnPage.Value" Value="Пользователи услуги" />
+			<Item Name="LocalizableStrings.TnkSchema9beaea4fDetail1e1f18a7DetailCaptionOnPage.Value" Value="Пользователи услуги" />
+			<Item Name="LocalizableStrings.TnkSchema9beaea4fDetail49a16ff2DetailCaptionOnPage.Value" Value="Пользователи услуги" />
+			<Item Name="LocalizableStrings.TnkSchema9beaea4fDetailf53e55deDetailCaptionOnPage.Value" Value="Пользователи услуги" />
+			<Item Name="LocalizableStrings.TnkSchemaf4d89b85Detail32531ae1DetailCaptionOnPage.Value" Value="Пользователи услуги" />
+			<Item Name="LocalizableStrings.TnkUsersOfTheServiceTabCaption.Value" Value="Пользователи услуги" />
+		</Items>
+	</Group>
+</Resources>

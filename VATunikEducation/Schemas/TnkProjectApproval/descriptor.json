@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "45221e3a-22ec-40b4-9397-288270c3b04b",
+    "Name": "TnkProjectApproval",
+    "ModifiedOnUtc": "\/Date(1716555442000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Визирование проекта",
+    "DependsOn": []
+  }
+}
